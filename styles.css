@@ -1,0 +1,58 @@
+
+.hyper {
+	text-align: center;
+	border-top-color: #E9D5DA;
+	border-top-style: solid;
+	background-color:#E9D5DA;
+	padding-bottom: 50px;
+}
+
+.borderline {
+	text-align: center;
+	border-top-color: #E9D5DA;
+	border-top-style: solid;
+	background-color:#E9D5DA;
+	padding-top: 50px;
+	background-size: 75% auto;
+    width: 100%;
+	length: 250%;
+	border-bottom-color: #CDAAB3;
+	
+}
+
+
+head {
+	background-color:#E9D5DA;
+}
+
+body {
+	background-color: #EDE6DB;
+}
+.kentuc {
+	float: right;
+  width: 220px;
+  border-radius: 20px;
+  margin: 10px;
+	border-bottom-style: solid;
+	border-top-style: solid;
+}
+.chicken-fried {
+	border-bottom-style: solid;
+	border-top-style: solid;
+	width: 220px;
+  border-radius: 20px;
+  margin: 10px;
+	float: center;
+}
+.homefood {
+	text-align: left;
+	float: left;
+	padding:inherit;
+}
+.kentucfood {
+	text-align: right;
+	padding:inherit;
+	float: center;
+	border-bottom-style: solid;
+	border-top-style: solid;
+}
